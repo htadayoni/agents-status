@@ -1,0 +1,29 @@
+{
+ "agent": "narges",
+ "at": "2026-10-24T16:44:20Z",
+ "version": "d70e0dd",
+ "started_at": "2026-10-23T08:13:05Z",
+ "pull": {
+  "ok": true,
+  "at": "2026-10-24T16:44:20Z",
+  "failures": 0
+ },
+ "update": {
+  "result": "none",
+  "at": null,
+  "files": []
+ },
+ "counts": {
+  "messages_24h": 0,
+  "open_handoffs": 3
+ },
+ "last_error": {
+  "at": "2026-10-24T01:10:53Z",
+  "where": "aiogram.dispatcher"
+ },
+ "server": {
+  "disk_free_gb": 91.5,
+  "disk_free_pct": 89,
+  "mem_free_pct": 86
+ }
+}

@@ -1,0 +1,14 @@
+{
+ "agent": "ashkan",
+ "at": "2026-10-24T16:45:27Z",
+ "levels": {
+  "narges": "green",
+  "planner": "green",
+  "radar": "green"
+ },
+ "reasons": {
+  "narges": "last heartbeat 1 min ago",
+  "planner": "last heartbeat 5 h ago",
+  "radar": "last heartbeat 7 h ago"
+ }
+}
