@@ -1,0 +1,20 @@
+{
+ "agent": "pejvak",
+ "at": "2026-11-07T19:37:33Z",
+ "version": "0c373c6",
+ "counts": {
+  "open": 1,
+  "last_ok": {
+   "bale": "2026-11-07T17:22:10Z",
+   "rubika": "2026-11-07T17:22:11Z",
+   "eitaa": "2026-11-07T17:22:08Z"
+  }
+ },
+ "last_error": false,
+ "attention": [
+  {
+   "key": "edit:eitaa",
+   "text": "Pejvak: ۱ ویرایش در ایتا اعمال نشد"
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "agent": "ashkan",
+ "at": "2026-11-07T19:45:37Z",
+ "levels": {
+  "kourosh": "green",
+  "narges": "green",
+  "planner": "green",
+  "radar": "green",
+  "repurpose": "green",
+  "pejvak": "green"
+ },
+ "reasons": {
+  "kourosh": "last heartbeat 7 min ago",
+  "narges": "last heartbeat 3 min ago",
+  "planner": "last heartbeat 6 h ago",
+  "radar": "last heartbeat 53 h ago",
+  "repurpose": "last heartbeat 3 min ago",
+  "pejvak": "last heartbeat 8 min ago"
+ }
+}
