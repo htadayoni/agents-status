@@ -1,0 +1,16 @@
+{
+ "agent": "repurpose",
+ "at": "2026-11-14T12:11:34Z",
+ "version": "f070016",
+ "counts": {
+  "sent_total": 3,
+  "attention_count": 1
+ },
+ "last_error": false,
+ "attention": [
+  {
+   "key": "no-draft:2026-11-14",
+   "text": "برای ویدیوی 2026-11-14 پیش‌نویس پست تلگرام ساخته نشده"
+  }
+ ]
+}

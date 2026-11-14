@@ -1,0 +1,15 @@
+{
+ "agent": "pejvak",
+ "at": "2026-11-14T12:07:00Z",
+ "version": "adac884",
+ "counts": {
+  "open": 0,
+  "last_ok": {
+   "bale": "2026-11-13T08:02:03Z",
+   "rubika": "2026-11-13T08:02:07Z",
+   "eitaa": "2026-11-13T08:00:48Z"
+  }
+ },
+ "last_error": false,
+ "attention": []
+}
