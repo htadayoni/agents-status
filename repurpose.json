@@ -1,0 +1,28 @@
+{
+ "agent": "repurpose",
+ "at": "2026-11-21T14:19:01Z",
+ "version": "6d44124",
+ "counts": {
+  "sent_total": 6,
+  "attention_count": 4
+ },
+ "last_error": false,
+ "attention": [
+  {
+   "key": "letter-unapproved:2026-11-19",
+   "text": "نامه‌ی هفتگی 2026-11-19 منتظر تأیید است"
+  },
+  {
+   "key": "no-draft:2026-11-21",
+   "text": "برای ویدیوی 2026-11-21 پیش‌نویس پست تلگرام ساخته نشده"
+  },
+  {
+   "key": "auto-failed:posts:2026-11-15",
+   "text": "ساخت خودکار پست‌های مستقل ویدیوی 2026-11-15 انجام نشد"
+  },
+  {
+   "key": "unregistered:5v3uFhPVGv4",
+   "text": "ایده‌ی ویدیوی 2026-11-19 معلوم نیست؛ با scripts/videos.py set ثبتش کن"
+  }
+ ]
+}

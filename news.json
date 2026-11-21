@@ -1,0 +1,20 @@
+{
+ "agent": "news",
+ "at": "2026-11-21T06:12:33Z",
+ "counts": {
+  "fetched": 82,
+  "items": 10,
+  "full": 1,
+  "digest": 7
+ },
+ "last_error": true,
+ "problems": [
+  "منبع اصلی خوانده نشد: community.openai.com",
+  "منبع اصلی خوانده نشد: blog.cloudflare.com",
+  "منبع اصلی خوانده نشد: www.perplexity.ai",
+  "منبع اصلی خوانده نشد: nousresearch.com",
+  "releasebot-mistral هفت اجرا پشت سر هم خالی بود",
+  "releasebot-perplexity هفت اجرا پشت سر هم خالی بود",
+  "releasebot-xai هفت اجرا پشت سر هم خالی بود"
+ ]
+}

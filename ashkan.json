@@ -1,0 +1,28 @@
+{
+ "agent": "ashkan",
+ "at": "2026-11-21T14:22:15Z",
+ "levels": {
+  "kourosh": "green",
+  "narges": "green",
+  "comments": "green",
+  "planner": "red",
+  "radar": "red",
+  "news": "orange",
+  "repurpose": "green",
+  "pejvak": "green",
+  "bardia": "green",
+  "panel": "green"
+ },
+ "reasons": {
+  "kourosh": "last heartbeat 3 min ago",
+  "narges": "last heartbeat 9 min ago",
+  "comments": "last heartbeat 2 min ago",
+  "planner": "last heartbeat 55 h ago",
+  "radar": "last heartbeat 55 h ago",
+  "news": "7 problem(s) in its last run: منبع اصلی خوانده نشد: community.openai.com",
+  "repurpose": "last heartbeat 3 min ago",
+  "pejvak": "last heartbeat 2 min ago",
+  "bardia": "last heartbeat 0 min ago",
+  "panel": "healthz 200"
+ }
+}
