@@ -1,0 +1,28 @@
+{
+ "agent": "ashkan",
+ "at": "2026-11-28T15:52:16Z",
+ "levels": {
+  "kourosh": "green",
+  "narges": "green",
+  "comments": "green",
+  "planner": "green",
+  "radar": "green",
+  "news": "orange",
+  "repurpose": "green",
+  "pejvak": "green",
+  "bardia": "green",
+  "panel": "green"
+ },
+ "reasons": {
+  "kourosh": "last heartbeat 7 min ago",
+  "narges": "last heartbeat 6 min ago",
+  "comments": "last heartbeat 1 min ago",
+  "planner": "last heartbeat 9 h ago",
+  "radar": "last heartbeat 8 h ago",
+  "news": "4 problem(s) in its last run: منبع اصلی خوانده نشد: nod.n8n.io",
+  "repurpose": "last heartbeat 2 min ago",
+  "pejvak": "last heartbeat 5 min ago",
+  "bardia": "last heartbeat 6 min ago",
+  "panel": "healthz 200"
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "agent": "repurpose",
+ "at": "2026-11-28T15:50:13Z",
+ "version": "37b4564",
+ "counts": {
+  "sent_total": 7,
+  "attention_count": 2
+ },
+ "last_error": false,
+ "attention": [
+  {
+   "key": "awaiting:2026-11-28",
+   "text": "پست انتشار ویدیوی 2026-11-28 منتظر تأیید ✅ است"
+  },
+  {
+   "key": "letter-unapproved:2026-11-19",
+   "text": "نامه‌ی هفتگی 2026-11-19 منتظر تأیید است"
+  }
+ ]
+}

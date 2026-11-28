@@ -1,0 +1,17 @@
+{
+ "agent": "news",
+ "at": "2026-11-28T06:10:57Z",
+ "counts": {
+  "fetched": 37,
+  "items": 6,
+  "full": 0,
+  "digest": 1
+ },
+ "last_error": true,
+ "problems": [
+  "منبع اصلی خوانده نشد: nod.n8n.io",
+  "releasebot-deepseek هفت اجرا پشت سر هم خالی بود",
+  "releasebot-mistral هفت اجرا پشت سر هم خالی بود",
+  "releasebot-xai هفت اجرا پشت سر هم خالی بود"
+ ]
+}

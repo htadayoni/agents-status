@@ -1,0 +1,13 @@
+{
+ "agent": "comments",
+ "at": "2026-11-28T15:51:10Z",
+ "version": "d938c2aa8b896b243cdc04cac93d3f014d617371",
+ "counts": {
+  "sent_24h": 0,
+  "waiting_unknown": 0,
+  "attention_count": 0
+ },
+ "last_error": true,
+ "problems": [],
+ "attention": []
+}
